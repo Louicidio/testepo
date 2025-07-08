@@ -1,0 +1,11 @@
+Etapa Objetivo
+1. Leitura Interpretar o arquivo .txt
+2. Padronizar Garantir matriz retangular
+3. Forma padrão	Adicionar variáveis extras
+4. Fase I Eliminar artificiais e encontrar base viável
+5. Fase II Resolver problema original com Simplex
+6. Resultado Mostrar solução ótima
+7. Retirar logs
+8. Organização do codigo
+9. Testar maximo de entradsa possiveis
+10. Finalizar
